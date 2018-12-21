@@ -1,4 +1,4 @@
-# Global Matting
+# Global Matting 抠图技术
 
 This project is built by reproducing the global matting algorithm in the CVPR 2011 paper: 
 
